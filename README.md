@@ -11,3 +11,5 @@ For the pantheon I used a cylinder with other small cylinders all around to make
 Images:
 
 <img width="210" height="194" alt="image" src="https://github.com/user-attachments/assets/a9fcb0d5-b6d6-4fb7-a16b-47e9a125e699" />
+
+<img width="1363" height="870" alt="image" src="https://github.com/user-attachments/assets/c581f5f3-c1d0-41a7-a303-1a605639cf82" />
