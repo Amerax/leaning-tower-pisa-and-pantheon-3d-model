@@ -15,6 +15,4 @@ Leaning tower of pisa: https://cad.onshape.com/documents/36fd708285019838f3a1d39
 
 Images:
 
-<img width="210" height="194" alt="image" src="https://github.com/user-attachments/assets/a9fcb0d5-b6d6-4fb7-a16b-47e9a125e699" />
-
-<img width="1363" height="870" alt="image" src="https://github.com/user-attachments/assets/c581f5f3-c1d0-41a7-a303-1a605639cf82" />
+<img width="1065" height="1031" alt="image" src="https://github.com/user-attachments/assets/06d858ab-457b-41e8-9f62-54827a2b70c1" />
